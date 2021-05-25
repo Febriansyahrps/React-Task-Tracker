@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Holiday",
+      "day": "sunday",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Prayer",
+      "day": "friday",
+      "reminder": false
+    },
+    {
+      "text": "coding",
+      "day": "every day",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
